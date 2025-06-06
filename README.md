@@ -4,6 +4,13 @@
 
 ---
 
+
+
+![Ecochain UI Preview](https://github.com/user-attachments/assets/e0d42485-6b02-4903-af9b-2806eca7b3d6)
+
+
+---
+
 ## 🚀 Features
 
 - ✨ Clean, responsive UI  
@@ -41,25 +48,10 @@ The app should now be running at `http://localhost:3000`.
 - **React** - Frontend framework  
 - **Tailwind CSS** - Utility-first styling  
 - **Heroicons / Lucide / Custom SVGs** - Icon sets  
-- **Framer Motion** *(optional)* - For animations  
+- **Framer Motion**  - For animations  
 
 ---
 
-## 📁 Folder Structure
-
-```
-Ecochain-frontend/
-├── public/
-├── src/
-│   ├── assets/        # Icons, images
-│   ├── components/    # Reusable components
-│   ├── pages/         # Page-wise views
-│   ├── App.js
-│   └── index.js
-├── tailwind.config.js
-├── package.json
-└── README.md
-```
 
 ---
 
@@ -79,10 +71,6 @@ This project is licensed under the MIT License.
 
 **Keshav Verma**  
 GitHub: [codes-by-keshav](https://github.com/codes-by-keshav)  
-Email: [keshav.verma.ug22@nsut.ac.in](mailto:keshav.verma.ug22@nsut.ac.in)
-
+Linkedin: [Linkedin](https://www.linkedin.com/in/keshav-av/)
 ---
 
-## 🌐 Live Demo
-
-Coming Soon 🚧
