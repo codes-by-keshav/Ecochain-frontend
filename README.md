@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# Ecochain Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Ecochain Frontend** is a user-friendly and responsive web interface built using **React**, **Tailwind CSS**, and modern **icons** and **animations**. It is designed to be clean, intuitive, and lightweight for seamless interaction with the Ecochain platform.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- ✨ Clean, responsive UI  
+- ⚡ Built with React and Tailwind CSS  
+- 🎨 Beautiful icons and smooth animations  
+- 📱 Mobile-first design  
+- 🧠 Easy to understand code structure  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📦 Getting Started
 
-### `npm test`
+Follow the steps below to clone and run the project locally:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+# 1. Clone the repository
+git clone https://github.com/codes-by-keshav/Ecochain-frontend.git
 
-### `npm run build`
+# 2. Navigate into the project directory
+cd Ecochain-frontend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 3. Install dependencies
+npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 4. Start the development server
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The app should now be running at `http://localhost:3000`.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠 Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **React** - Frontend framework  
+- **Tailwind CSS** - Utility-first styling  
+- **Heroicons / Lucide / Custom SVGs** - Icon sets  
+- **Framer Motion** *(optional)* - For animations  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📁 Folder Structure
 
-## Learn More
+```
+Ecochain-frontend/
+├── public/
+├── src/
+│   ├── assets/        # Icons, images
+│   ├── components/    # Reusable components
+│   ├── pages/         # Page-wise views
+│   ├── App.js
+│   └── index.js
+├── tailwind.config.js
+├── package.json
+└── README.md
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributing
 
-### Code Splitting
+Contributions are welcome! Fork the repo, make your changes, and open a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📜 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project is licensed under the MIT License.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 👤 Author
 
-### Advanced Configuration
+**Keshav Verma**  
+GitHub: [codes-by-keshav](https://github.com/codes-by-keshav)  
+Email: [keshav.verma.ug22@nsut.ac.in](mailto:keshav.verma.ug22@nsut.ac.in)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🌐 Live Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Coming Soon 🚧
