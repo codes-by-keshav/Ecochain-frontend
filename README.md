@@ -6,7 +6,8 @@
 
 
 
-![Ecochain UI Preview](https://github.com/user-attachments/assets/e0d42485-6b02-4903-af9b-2806eca7b3d6)
+![Ecochain UI Preview](https://github.com/user-attachments/assets/fa50b369-787f-4165-a290-05077125bcf1)
+
 
 
 ---
